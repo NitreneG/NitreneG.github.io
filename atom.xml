@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://NitreneG.github.io</id>
+    <title>Nitrene~喵窝</title>
+    <updated>2025-01-13T02:51:44.745Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://NitreneG.github.io"/>
+    <link rel="self" href="https://NitreneG.github.io/atom.xml"/>
+    <subtitle>ご注文は…Nitreneちゃんですが❓</subtitle>
+    <logo>https://NitreneG.github.io/images/avatar.png</logo>
+    <icon>https://NitreneG.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, Nitrene~喵窝</rights>
+    <entry>
+        <title type="html"><![CDATA[test.]]></title>
+        <id>https://NitreneG.github.io/post/test/</id>
+        <link href="https://NitreneG.github.io/post/test/">
+        </link>
+        <updated>2025-01-12T09:17:56.000Z</updated>
+    </entry>
+</feed>
